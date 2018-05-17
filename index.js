@@ -25,9 +25,3 @@ function iLoveTheBeatles(n) {
     return myArray
   }
 }
-=======
-  console.log(array);
-}
-
-function iLoveTheBeatles()
->>>>>>> 018546db83e28c20eafdf43f7667317111f21dfa
